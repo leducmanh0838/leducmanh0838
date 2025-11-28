@@ -2,11 +2,23 @@
 
 ---
 
-## 🔧 Tech Stack
-- **Backend**: Spring MVC, Flask, Django  
-- **Frontend**: ReactJS
+## ⭐ Skills
+- **Programming Languages**: Languages: Python, Java, JavaScript 
+- **Frameworks & Libraries**: Django, Flask, Spring MVC, ReactJS, React Native
+- **Web Technologies**: HTML, CSS, WordPress
+- **Testing**: Pytest, Selenium, Locust
+- **Tools**: Git, Postman, Jira, Docker
+- **Core Concepts**: OOP, SOLID Principles, Data Structures & Algorithms
+- **English**: Intermediate - B1, good Reading & Writing skills
 
 ---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :---: |
+| **🍳 Food Sharing System** | Social network for sharing recipes. | ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | [Repo](https://github.com/leducmanh0838/ManhTasty) <br> [Demo](https://www.youtube.com/watch?v=jCqo9_qHdcM) |
+| **🎓 Student Score Management** | Student score management system. | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | [Repo](https://github.com/leducmanh0838/StudentScoreManagement) |
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=leducmanh0838&show_icons=true&theme=radical)
